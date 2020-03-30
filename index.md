@@ -4,4 +4,4 @@ Welcome to _the place_ to study the magical spells of Artificial Intelligence. H
 
 ### Linked pages
 
-- [github](https://www.github.com)
+- [Learning weight updates](learning-weight-updates.md)
